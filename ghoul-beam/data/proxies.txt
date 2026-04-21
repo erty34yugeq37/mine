@@ -1,0 +1,6 @@
+# Add your proxies here, one per line
+# Format: protocol://[user:pass@]host:port
+# Examples:
+#   http://1.2.3.4:8080
+#   socks5://user:pass@1.2.3.4:1080
+#   socks4://1.2.3.4:4145
